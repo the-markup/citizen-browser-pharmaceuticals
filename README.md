@@ -1,6 +1,6 @@
 # Citizen Browser: How Pharmaceutical Ads Are Targeted To Users
 
-This repository contains data underlying the findings of our story, "[How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/)," from our series [Citizen Browser](https://themarkup.org/citizen-browser/).
+This repository contains data underlying the findings of our story, "[How Big Pharma Finds Sick Users on Facebook](https://themarkup.org/citizen-browser/2021/05/06/how-big-pharma-finds-sick-users-on-facebook)," from our series [Citizen Browser](https://themarkup.org/citizen-browser/).
 
 Our methodology is described in "[How We Built a Facebook Inspector](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)."
 
